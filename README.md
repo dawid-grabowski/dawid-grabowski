@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dawid Grabowski
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript & React
+- 📫 Contact me by sending e-mail to kontakt@grabowskidawid.com
