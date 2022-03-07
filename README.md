@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning JavaScript & React
 - 👨‍💼 I'm trying to land my first job as a Junior Front End Developer
 - 📫 Contact me by sending e-mail to kontakt@grabowskidawid.com
+- 🖥 Checkout my website at www.grabowskidawid.com
