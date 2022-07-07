@@ -1,8 +1,7 @@
-### Hi, I’m Dawid Grabowski
+### Hi, I’m Dawid 🤠
 
-- 📉 I'm currently working on building my portfolio projects
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript & React
-- 👨‍💼 I'm trying to land my first job as a Junior Front End Developer
-- 📫 Contact me by sending e-mail to kontakt@grabowskidawid.com
-- 🖥 Checkout my website at www.grabowskidawid.com
+- 📉 I'm currently working on big a Web App projects at my company
+- 👀 I’m interested in Mixed Martial Arts, Motorcycles and Programming (Front-End especially)
+- 🌱 I’m getting deep into TypeScript and React
+- 📫 Contact me by sending an e-mail to kontakt@grabowskidawid.com
+- 🖥 Checkout my portfolio website at www.grabowskidawid.com (even tho it needs a refresh 🥴)
