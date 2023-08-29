@@ -1,7 +1,7 @@
 ### Hi, I’m Dawid 🤠
 
-- 📉 I'm currently working on big Web App projects at my company and small side projects.
+- 📉 Coding, having fun.
 - 👀 I’m interested in Mixed Martial Arts, Motorcycles and Programming (Front-End especially)
-- 🌱 I’m getting deep into TypeScript, React.js and Next.js
+- 🌱 Getting deep into software development
 - 📫 Contact me by sending an e-mail to kontakt@grabowskidawid.com
-- 🖥 More info about me at www.grabowskidawid.com
+- 🖥 Feel free to visit - [wwW.grabowskidawid.com](https://www.grabowskidawid.com)
